@@ -1,0 +1,65 @@
+.icon {
+  display: block;
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 28px;
+  height: 28px;
+  transition: $transitionTime;
+  transform-origin: center;
+  will-change: transform;
+
+  @include onTablet {
+    width: 40px;
+    height: 40px;
+  }
+
+  &:hover {
+    transform: scale(1.07);
+  }
+
+  &--phone {
+    background-image: url('../images/icons/Icone-Phone-Call.svg');
+  }
+
+  &--telegram {
+    background-image: url('../images/icons/Telegram_logo.svg');
+  }
+
+
+  &__tooltip {
+    opacity: 0;
+
+    @include onTablet {
+      position: absolute;
+      right: 100%;
+      top: 50%;
+      transform: translateY(-50%);
+      padding-right: 20px;
+      color: black;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 16px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+
+      display: block;
+      width: max-content;
+      pointer-events: none;
+      transition: opacity 0.3s;
+
+      @include onDesktop {
+        font-size: 18px;
+        line-height: 18px;
+      }
+    }
+  }
+
+  &:hover &__tooltip {
+    @include onTablet {
+      opacity: 1;
+      pointer-events: all;
+    }
+  }
+}

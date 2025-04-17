@@ -1,0 +1,49 @@
+.header {
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header_bi_fhd.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-block: 24px;
+
+  @include onTablet {
+    padding-block: 28px;
+  }
+
+  &__content {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__logo {
+    width: 200px;
+    transform-origin: center;
+    transition: $transitionTime;
+
+    @include onTablet {
+      width: 300px;
+    }
+
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+
+  &__icons {
+    display: flex;
+    gap: 28px;
+    justify-content: space-between;
+    transform: $transitionTime;
+
+    @include onTablet {
+      gap: 36px;
+    }
+  }
+}

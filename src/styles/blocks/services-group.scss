@@ -1,0 +1,46 @@
+.services-group {
+  &__wrapper {
+    margin-bottom: 40px;
+
+    @include pageGrid;
+    grid-row-gap: 40px;
+    --columns: 2;
+
+    @include onTablet {
+      grid-row-gap: 56px;
+      --columns: 6;
+    }
+
+    @include onDesktop {
+      grid-row-gap: 0;
+      --columns: 12;
+    }
+  }
+
+  &__item {
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+    padding: 24px;
+    background-color: #fff;
+    border-radius: 12px;
+    border: 2px solid black;
+    transition: $transitionTime;
+    transform-origin: center;
+    will-change: transform;
+
+    grid-column: 1 / -1;
+
+    @include onTablet {
+      border: 3px solid black;
+      grid-column: 2 / 6;
+    }
+
+    @include onDesktop {
+      grid-column: span 4;
+    }
+
+    &:hover {
+      border-color: #f53838;
+      transform: scale(1.03);
+    }
+  }
+}

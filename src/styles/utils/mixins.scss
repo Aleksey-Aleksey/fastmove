@@ -1,0 +1,34 @@
+@mixin onTablet {
+  @media (min-width: 600px) {
+    @content;
+  }
+}
+
+@mixin onDesktop {
+  @media(min-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin backGroundPosition {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@mixin pageGrid {
+  display: grid;
+  column-gap: 20px;
+  // --columns: 2;
+  grid-template-columns: repeat(var(--columns), 1fr);
+
+  @include onTablet {
+    column-gap: 24px;
+    // --columns: 6;
+  }
+
+  @include onDesktop {
+    column-gap: 24px;
+    // --columns: 12;
+  }
+}

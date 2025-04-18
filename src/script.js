@@ -1,3 +1,5 @@
+import './styles/style.scss';
+
 "use strict"
 
 const form = document.querySelector('.contacts__form');

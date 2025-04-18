@@ -1,4 +1,4 @@
-6070
+6068
 86D:\Projects\FastMove\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133894359143978170 0
 78D:\Projects\FastMove\node_modules\posthtml\node_modules\entities\lib\decode.js133894359140196580 0
 71D:\Projects\FastMove\node_modules\@nodelib\fs.scandir\out\settings.d.ts133894359144107957 0
@@ -33,7 +33,7 @@
 50D:\Projects\FastMove\node_modules\@parcel\core\src133894359154196760 1
 51D:\Projects\FastMove\node_modules\lmdb\dependencies133894359152669413 1
 52D:\Projects\FastMove\node_modules\.package-lock.json133894359357006732 0
-25D:\Projects\FastMove\dist133894531550178723 1
+25D:\Projects\FastMove\dist133894531009676618 1
 83D:\Projects\FastMove\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133894359141837702 0
 83D:\Projects\FastMove\node_modules\posthtml\node_modules\domutils\lib\traversal.d.ts133894359144725349 0
 87D:\Projects\FastMove\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133894359154471300 0
@@ -695,7 +695,7 @@
 38D:\Projects\FastMove\node_modules\svgo133894359146730710 1
 72D:\Projects\FastMove\node_modules\@nodelib\fs.walk\out\readers\sync.d.ts133894359144551973 0
 67D:\Projects\FastMove\node_modules\mdn-data\css\syntaxes.schema.json133894359144551973 0
-36D:\Projects\FastMove\dist\index.html133894531550123565 0
+36D:\Projects\FastMove\dist\index.html133894528341818124 0
 74D:\Projects\FastMove\node_modules\@parcel\package-manager\lib\index.js.map133894359148515720 0
 48D:\Projects\FastMove\node_modules\ordered-binary133894359142515688 1
 103D:\Projects\FastMove\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133894359147805883 0
@@ -4369,7 +4369,6 @@
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LB.js133894359158105420 0
 71D:\Projects\FastMove\node_modules\@parcel\core\lib\public\Dependency.js133894359150027876 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LC.js133894359158115445 0
-51D:\Projects\FastMove\dist\FastMove.ec85249d.css.map133894531550163659 0
 54D:\Projects\FastMove\node_modules\async\concatLimit.js133894359144816571 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LI.js133894359158158189 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LS.js133894359158368226 0
@@ -6062,7 +6061,6 @@
 51D:\Projects\FastMove\dist\FastMove.992c7999.css.map133894524965995611 0
 51D:\Projects\FastMove\dist\FastMove.9f367d21.css.map133894531009676618 0
 46D:\Projects\FastMove\dist\FastMove.d29bb997.js133894528341818124 0
-47D:\Projects\FastMove\dist\FastMove.ec85249d.css133894531550123565 0
 47D:\Projects\FastMove\dist\favicon.092f9aee.avif133894528341657866 0
 47D:\Projects\FastMove\dist\favicon.e0f426bd.avif133894524965751445 0
 52D:\Projects\FastMove\dist\header_bi_fhd.356fd458.jpg133894524965823003 0

@@ -226,8 +226,10 @@
 
 .services__card {
   text-align: center;
+  transform-origin: center;
+  will-change: transform;
   background-color: #ffffffe6;
-  border: 2px solid #000;
+  border: 1px solid green;
   border-radius: 6px;
   flex-direction: column;
   flex: auto;
@@ -256,7 +258,6 @@
 
 @media (width >= 600px) {
   .services__card {
-    border: 3px solid #000;
     border-radius: 8px;
     height: 150px;
   }
@@ -494,7 +495,7 @@
   transform-origin: center;
   will-change: transform;
   background-color: #fff;
-  border: 2px solid #000;
+  border: 1px solid #000;
   border-radius: 12px;
   grid-column: 1 / -1;
   padding: 24px;
@@ -504,7 +505,7 @@
 
 @media (width >= 600px) {
   .services-group__item {
-    border: 3px solid #000;
+    border: 1px solid #000;
     grid-column: 2 / 6;
   }
 }

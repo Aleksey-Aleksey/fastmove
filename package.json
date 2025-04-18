@@ -4,7 +4,7 @@
   "homepage": "https://aleksey-aleksey.github.io/fastmove",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build src/index.html --dist-dir dist --public-url ./",
+    "build": "parcel build src/index.html --dist-dir dist",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },

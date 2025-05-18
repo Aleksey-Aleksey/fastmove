@@ -1,4 +1,4 @@
-git add README.md FastMove Landing Page
+FastMove Landing Page
 
 A responsive landing page for a transportation and demolition service company.
 

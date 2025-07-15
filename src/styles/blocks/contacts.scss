@@ -53,6 +53,7 @@
     border: 1px solid transparent;
     display: block;
     width: 100%;
+    font-family: 'Manrope', sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 140%;
@@ -69,7 +70,7 @@
 
     &::placeholder {
       color: #7e7e83;
-      font-family: Space Mono;
+      font-family: 'Manrope', sans-serif;
       font-weight: 400;
       font-size: 14px;
       line-height: 140%;

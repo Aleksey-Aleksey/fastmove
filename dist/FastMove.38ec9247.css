@@ -14,7 +14,7 @@
 .page {
   color: #292929;
   scroll-behavior: smooth;
-  font-family: Inter, Arial, sans-serif;
+  font-family: Manrope, sans-serif;
 }
 
 .header {
@@ -298,20 +298,20 @@
   flex-grow: 1;
   margin-top: auto;
   font-size: 16px;
-  line-height: 16px;
+  line-height: 20px;
 }
 
 @media (width >= 600px) {
   .services__card-description {
     font-size: 18px;
-    line-height: 18px;
+    line-height: 22px;
   }
 }
 
 @media (width >= 1024px) {
   .services__card-description {
     font-size: 20px;
-    line-height: 20px;
+    line-height: 24px;
   }
 }
 
@@ -339,7 +339,7 @@
 
 .section__title {
   letter-spacing: 0;
-  margin-bottom: 48px;
+  margin-bottom: 26px;
   font-size: 32px;
   font-weight: 700;
   line-height: 32px;
@@ -347,7 +347,6 @@
 
 @media (width >= 600px) {
   .section__title {
-    margin-bottom: 56px;
     font-size: 40px;
     line-height: 40px;
   }

@@ -123,17 +123,17 @@
   &__card-description {
     flex-grow: 1;
     font-size: 16px;
-    line-height: 16px;
+    line-height: 20px;
     margin-top: auto;
 
     @include onTablet {
       font-size: 18px;
-      line-height: 18px;
+      line-height: 22px;
     }
 
     @include onDesktop {
       font-size: 20px;
-      line-height: 20px;
+      line-height: 24px;
     }
   }
 }

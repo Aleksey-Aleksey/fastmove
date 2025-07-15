@@ -1,4 +1,4 @@
-6100
+6102
 86D:\Projects\FastMove\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133894359143978170 0
 78D:\Projects\FastMove\node_modules\posthtml\node_modules\entities\lib\decode.js133894359140196580 0
 71D:\Projects\FastMove\node_modules\@nodelib\fs.scandir\out\settings.d.ts133894359144107957 0
@@ -39,7 +39,7 @@
 94D:\Projects\FastMove\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133894359145709379 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\JE.js133894359157758326 0
 50D:\Projects\FastMove\src\styles\blocks\button.scss133894021194553202 0
-25D:\Projects\FastMove\docs133894826315180486 1
+25D:\Projects\FastMove\docs133970834732348626 1
 55D:\Projects\FastMove\node_modules\@parcel\codeframe\src133894359147603847 1
 61D:\Projects\FastMove\node_modules\source-map-js\lib\base64.js133894359137397804 0
 57D:\Projects\FastMove\src\styles\blocks\delivery-card.scss133894799064843345 0
@@ -458,7 +458,7 @@
 52D:\Projects\FastMove\node_modules\mdn-data\README.md133894359145568221 0
 66D:\Projects\FastMove\node_modules\type-fest\source\promisable.d.ts133894359144989030 0
 42D:\Projects\FastMove\node_modules\domutils133894359148258529 1
-51D:\Projects\FastMove\docs\FastMove.d13f0b4c.css.map133894826312140208 0
+51D:\Projects\FastMove\docs\FastMove.d13f0b4c.css.map133970834727643719 0
 91D:\Projects\FastMove\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_get.cjs133894359145946063 0
 62D:\Projects\FastMove\node_modules\domhandler\lib\node.d.ts.map133894359142051484 0
 80D:\Projects\FastMove\node_modules\caniuse-lite\data\features\css-not-sel-list.js133894359154516469 0
@@ -561,7 +561,7 @@
 59D:\Projects\FastMove\node_modules\domutils\lib\feeds.js.map133894359144188173 0
 68D:\Projects\FastMove\node_modules\type-fest\ts41\delimiter-case.d.ts133894359142119573 0
 79D:\Projects\FastMove\node_modules\caniuse-lite\data\features\urlsearchparams.js133894359160082350 0
-45D:\Projects\FastMove\docs\logo_2.0ccbacf5.svg133894826315100704 0
+45D:\Projects\FastMove\docs\logo_2.0ccbacf5.svg133970834731592487 0
 44D:\Projects\FastMove\node_modules\nullthrows133894359139426660 1
 77D:\Projects\FastMove\node_modules\caniuse-lite\data\features\tabindex-attr.js133894359159817457 0
 41D:\Projects\FastMove\node_modules\globals133894359139880358 1
@@ -988,7 +988,7 @@
 47D:\Projects\FastMove\node_modules\commander\lib133894359141137764 1
 49D:\Projects\FastMove\node_modules\detect-libc\lib133894359139988283 1
 61D:\Projects\FastMove\node_modules\utility-types\dist\index.js133894359137445284 0
-40D:\Projects\FastMove\docs\2.cfb87ae3.jpg133894826308744593 0
+40D:\Projects\FastMove\docs\2.cfb87ae3.jpg133970834722791896 0
 64D:\Projects\FastMove\node_modules\fs-extra\lib\ensure\symlink.js133894359145097539 0
 50D:\Projects\FastMove\node_modules\p-try\index.d.ts133894359135674144 0
 85D:\Projects\FastMove\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133894359144895979 0
@@ -1141,7 +1141,7 @@
 71D:\Projects\FastMove\node_modules\type-fest\source\set-return-type.d.ts133894359146307580 0
 56D:\Projects\FastMove\node_modules\locate-path\index.d.ts133894359135674144 0
 69D:\Projects\FastMove\node_modules\type-fest\source\tsconfig-json.d.ts133894359146908985 0
-51D:\Projects\FastMove\docs\FastMove.ec85249d.css.map133894826313616499 0
+51D:\Projects\FastMove\docs\FastMove.ec85249d.css.map133970834729815582 0
 85D:\Projects\FastMove\node_modules\@swc\helpers\cjs\_unsupported_iterable_to_array.cjs133894359151231349 0
 62D:\Projects\FastMove\node_modules\timsort\build\timsort.min.js133894359140451929 0
 65D:\Projects\FastMove\node_modules\type-fest\source\utilities.d.ts133894359147181554 0
@@ -1325,7 +1325,7 @@
 59D:\Projects\FastMove\node_modules\@parcel\core\src\utils.js133894359154116655 0
 68D:\Projects\FastMove\node_modules\svgo\plugins\convertShapeToPath.js133894359148899735 0
 51D:\Projects\FastMove\node_modules\is-json\README.md133894359136269976 0
-51D:\Projects\FastMove\docs\FastMove.38ec9247.css.map133894826310398240 0
+51D:\Projects\FastMove\docs\FastMove.38ec9247.css.map133970834724940099 0
 61D:\Projects\FastMove\node_modules\svgo\plugins\mergeStyles.js133894359149319487 0
 63D:\Projects\FastMove\node_modules\css-tree\cjs\walker\index.cjs133894359150376492 0
 79D:\Projects\FastMove\node_modules\caniuse-lite\data\features\contenteditable.js133894359152699456 0
@@ -1412,7 +1412,7 @@
 64D:\Projects\FastMove\node_modules\node-addon-api\tools\README.md133894359144225594 0
 92D:\Projects\FastMove\node_modules\posthtml\node_modules\dom-serializer\lib\foreignNames.d.ts133894359142676350 0
 56D:\Projects\FastMove\node_modules\supports-color\license133894359134763651 0
-46D:\Projects\FastMove\docs\FastMove.47be9f10.js133894826310473562 0
+46D:\Projects\FastMove\docs\FastMove.47be9f10.js133970834724940099 0
 69D:\Projects\FastMove\node_modules\svgo\node_modules\commander\typings133894359141349449 1
 60D:\Projects\FastMove\node_modules\nth-check\lib\index.js.map133894359143088005 0
 53D:\Projects\FastMove\node_modules\svgo\lib\builtin.js133894359144008438 0
@@ -1445,7 +1445,7 @@
 62D:\Projects\FastMove\node_modules\postcss-value-parser\LICENSE133894359134733670 0
 68D:\Projects\FastMove\node_modules\css-tree\cjs\syntax\node\Block.cjs133894359141608682 0
 58D:\Projects\FastMove\node_modules\strip-outer\package.json133894359134753656 0
-40D:\Projects\FastMove\docs\2.ee589dbb.jpg133894826308932808 0
+40D:\Projects\FastMove\docs\2.ee589dbb.jpg133970834722952553 0
 55D:\Projects\FastMove\node_modules\lmdb\dependencies\lz4133894359142616784 1
 46D:\Projects\FastMove\node_modules\posthtml\lib133894359136296816 1
 86D:\Projects\FastMove\node_modules\csso\node_modules\css-tree\lib\syntax\node\Number.js133894359154656369 0
@@ -1834,7 +1834,7 @@
 54D:\Projects\FastMove\node_modules\posthtml-parser\dist133894359140131142 1
 59D:\Projects\FastMove\node_modules\dotenv\lib\env-options.js133894359140574422 0
 57D:\Projects\FastMove\node_modules\posthtml-parser\license133894359134733670 0
-47D:\Projects\FastMove\docs\favicon.092f9aee.avif133894826313938797 0
+47D:\Projects\FastMove\docs\favicon.092f9aee.avif133970834730106085 0
 59D:\Projects\FastMove\node_modules\posthtml-parser\readme.md133894359138775276 0
 72D:\Projects\FastMove\node_modules\caniuse-lite\dist\unpacker\browsers.js133894359151029107 0
 65D:\Projects\FastMove\node_modules\posthtml-parser\dist\index.d.ts133894359139671245 0
@@ -2019,7 +2019,7 @@
 53D:\Projects\FastMove\node_modules\env-paths\readme.md133894359137169715 0
 80D:\Projects\FastMove\node_modules\caniuse-lite\data\features\css-focus-within.js133894359153924130 0
 81D:\Projects\FastMove\node_modules\posthtml\node_modules\domutils\lib\stringify.js133894359140871038 0
-45D:\Projects\FastMove\docs\logo_2.a64aefd8.svg133894826315100704 0
+45D:\Projects\FastMove\docs\logo_2.a64aefd8.svg133970834731869038 0
 55D:\Projects\FastMove\node_modules\make-dir\node_modules133894359349365303 1
 70D:\Projects\FastMove\node_modules\posthtml\node_modules\domhandler\lib133894359141174396 1
 88D:\Projects\FastMove\node_modules\caniuse-lite\data\features\css-file-selector-button.js133894359153830228 0
@@ -2328,7 +2328,7 @@
 94D:\Projects\FastMove\node_modules\msgpackr-extract\node_modules\detect-libc\lib\detect-libc.js133894359136096644 0
 93D:\Projects\FastMove\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js133894359136818878 0
 57D:\Projects\FastMove\node_modules\lines-and-columns\build133894359138482809 1
-52D:\Projects\FastMove\docs\Telegram_logo.bc66a9c5.svg133894826315180486 0
+52D:\Projects\FastMove\docs\Telegram_logo.bc66a9c5.svg133970834732348626 0
 44D:\Projects\FastMove\node_modules\dotenv\lib133894359142760897 1
 91D:\Projects\FastMove\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133894359150511114 0
 90D:\Projects\FastMove\node_modules\msgpackr-extract\node_modules\detect-libc\lib\process.js133894359137669570 0
@@ -2422,7 +2422,7 @@
 70D:\Projects\FastMove\node_modules\mdn-data\api\inheritance.schema.json133894359142616784 0
 74D:\Projects\FastMove\node_modules\caniuse-lite\data\features\nav-timing.js133894359158857269 0
 56D:\Projects\FastMove\node_modules\escalade\dist\index.js133894359135762761 0
-40D:\Projects\FastMove\docs\4.b8001bd0.jpg133894826309736341 0
+40D:\Projects\FastMove\docs\4.b8001bd0.jpg133970834724224461 0
 53D:\Projects\FastMove\node_modules\make-dir\index.d.ts133894359138520460 0
 51D:\Projects\FastMove\node_modules\async\doWhilst.js133894359147016153 0
 51D:\Projects\FastMove\node_modules\jsonfile\index.js133894359135708917 0
@@ -2891,7 +2891,7 @@
 72D:\Projects\FastMove\node_modules\csso\cjs\replace\AttributeSelector.cjs133894359142229800 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\KG.js133894359157971940 0
 63D:\Projects\FastMove\node_modules\htmlparser2\lib\Parser.js.map133894359143735575 0
-40D:\Projects\FastMove\docs\5.079a0447.jpg133894826309985217 0
+40D:\Projects\FastMove\docs\5.079a0447.jpg133970834724384893 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LV.js133894359158422911 0
 64D:\Projects\FastMove\node_modules\htmlparser2\lib\Tokenizer.d.ts133894359146431365 0
 71D:\Projects\FastMove\node_modules\htmlparser2\lib\WritableStream.js.map133894359145025965 0
@@ -3375,7 +3375,7 @@
 81D:\Projects\FastMove\node_modules\@swc\helpers\esm\_class_private_field_update.js133894359152799267 0
 61D:\Projects\FastMove\node_modules\css-tree\lib\utils\clone.js133894359153441153 0
 52D:\Projects\FastMove\dist\Telegram_logo.5839672e.svg133970031277595092 0
-47D:\Projects\FastMove\docs\FastMove.d13f0b4c.css133894826311889205 0
+47D:\Projects\FastMove\docs\FastMove.d13f0b4c.css133970834727354739 0
 58D:\Projects\FastMove\node_modules\domhandler\lib\node.d.ts133894359143167263 0
 56D:\Projects\FastMove\node_modules\domhandler\lib\node.js133894359139870077 0
 56D:\Projects\FastMove\node_modules\domelementtype\LICENSE133894359134723575 0
@@ -3942,7 +3942,7 @@
 84D:\Projects\FastMove\node_modules\@parcel\runtime-js\src\helpers\node\node-loader.js133894359145331930 0
 69D:\Projects\FastMove\node_modules\css-tree\lib\lexer\generic-const.js133894359154116655 0
 70D:\Projects\FastMove\node_modules\css-tree\lib\lexer\generic-urange.js133894359154126718 0
-40D:\Projects\FastMove\docs\6.8ae46cd7.jpg133894826310066341 0
+40D:\Projects\FastMove\docs\6.8ae46cd7.jpg133970834724396555 0
 61D:\Projects\FastMove\node_modules\css-tree\lib\lexer\Lexer.js133894359154540783 0
 67D:\Projects\FastMove\node_modules\css-tree\lib\lexer\match-graph.js133894359154608909 0
 63D:\Projects\FastMove\node_modules\async\internal\isArrayLike.js133894359150678060 0
@@ -4367,7 +4367,7 @@
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\IM.js133894359157225402 0
 60D:\Projects\FastMove\node_modules\@swc\helpers\src\index.mjs133894359157839696 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\IT.js133894359157738335 0
-47D:\Projects\FastMove\docs\FastMove.992c7999.css133894826310557548 0
+47D:\Projects\FastMove\docs\FastMove.992c7999.css133970834725336389 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\JO.js133894359157778329 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\JP.js133894359157792839 0
 64D:\Projects\FastMove\node_modules\@parcel\compressor-raw\LICENSE133894359135331103 0
@@ -4376,7 +4376,7 @@
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\KW.js133894359158050254 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LA.js133894359158080263 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LB.js133894359158105420 0
-47D:\Projects\FastMove\docs\FastMove.38ec9247.css133894826310194248 0
+47D:\Projects\FastMove\docs\FastMove.38ec9247.css133970834724604860 0
 71D:\Projects\FastMove\node_modules\@parcel\core\lib\public\Dependency.js133894359150027876 0
 65D:\Projects\FastMove\node_modules\caniuse-lite\data\regions\LC.js133894359158115445 0
 51D:\Projects\FastMove\dist\FastMove.ec85249d.css.map133894531550163659 0
@@ -4824,7 +4824,7 @@
 52D:\Projects\FastMove\node_modules\async\mapSeries.js133894359150875586 0
 52D:\Projects\FastMove\node_modules\async\package.json133894359153045076 0
 56D:\Projects\FastMove\node_modules\async\parallelLimit.js133894359151347248 0
-36D:\Projects\FastMove\docs\index.html133894826314684256 0
+36D:\Projects\FastMove\docs\index.html133970834731073818 0
 56D:\Projects\FastMove\node_modules\async\priorityQueue.js133894359151397748 0
 53D:\Projects\FastMove\node_modules\async\reflectAll.js133894359151743322 0
 49D:\Projects\FastMove\node_modules\async\reject.js133894359151845114 0
@@ -6054,28 +6054,30 @@
 43D:\Projects\FastMove\node_modules\.bin\svgo133894359350035291 0
 47D:\Projects\FastMove\node_modules\.bin\svgo.ps1133894359350035291 0
 65D:\Projects\FastMove\node_modules\.bin\update-browserslist-db.ps1133894359350308412 0
-40D:\Projects\FastMove\docs\1.2688dcc1.jpg133894826308258259 0
-40D:\Projects\FastMove\docs\1.39b08daa.jpg133894826308522931 0
-40D:\Projects\FastMove\docs\3.fd065a02.jpg133894826309075660 0
-40D:\Projects\FastMove\docs\3.fe86ec3d.jpg133894826309326465 0
-40D:\Projects\FastMove\docs\4.b38cfb8e.jpg133894826309571934 0
-40D:\Projects\FastMove\docs\5.3202d2f9.jpg133894826309985217 0
-40D:\Projects\FastMove\docs\6.dc21c8ae.jpg133894826310147363 0
-50D:\Projects\FastMove\docs\FastMove.47be9f10.js.map133894826310526878 0
-51D:\Projects\FastMove\docs\FastMove.992c7999.css.map133894826310809175 0
-47D:\Projects\FastMove\docs\FastMove.9f367d21.css133894826311061974 0
-51D:\Projects\FastMove\docs\FastMove.9f367d21.css.map133894826311391645 0
-47D:\Projects\FastMove\docs\FastMove.a001c1c7.css133894826311391645 0
-51D:\Projects\FastMove\docs\FastMove.a001c1c7.css.map133894826311632709 0
-46D:\Projects\FastMove\docs\FastMove.d29bb997.js133894826312427322 0
-50D:\Projects\FastMove\docs\FastMove.d29bb997.js.map133894826313075737 0
-47D:\Projects\FastMove\docs\FastMove.ec85249d.css133894826313397366 0
-47D:\Projects\FastMove\docs\favicon.e0f426bd.avif133894826314105787 0
-52D:\Projects\FastMove\docs\header_bi_fhd.356fd458.jpg133894826314274071 0
-52D:\Projects\FastMove\docs\header_bi_fhd.7c5a6d51.jpg133894826314477154 0
-55D:\Projects\FastMove\docs\Icone-Phone-Call.48cb4beb.svg133894826314684256 0
-55D:\Projects\FastMove\docs\Icone-Phone-Call.5afe586e.svg133894826314684256 0
-52D:\Projects\FastMove\docs\Telegram_logo.5839672e.svg133894826315100704 0
+40D:\Projects\FastMove\docs\1.2688dcc1.jpg133970834722198396 0
+40D:\Projects\FastMove\docs\1.39b08daa.jpg133970834722522238 0
+40D:\Projects\FastMove\docs\3.fd065a02.jpg133970834723276163 0
+40D:\Projects\FastMove\docs\3.fe86ec3d.jpg133970834723596097 0
+40D:\Projects\FastMove\docs\4.b38cfb8e.jpg133970834723907455 0
+40D:\Projects\FastMove\docs\5.3202d2f9.jpg133970834724396555 0
+40D:\Projects\FastMove\docs\6.dc21c8ae.jpg133970834724396555 0
+50D:\Projects\FastMove\docs\FastMove.47be9f10.js.map133970834724940099 0
+51D:\Projects\FastMove\docs\FastMove.992c7999.css.map133970834725726519 0
+47D:\Projects\FastMove\docs\FastMove.9f367d21.css133970834726000492 0
+51D:\Projects\FastMove\docs\FastMove.9f367d21.css.map133970834726322224 0
+47D:\Projects\FastMove\docs\FastMove.a001c1c7.css133970834726597361 0
+51D:\Projects\FastMove\docs\FastMove.a001c1c7.css.map133970834727072632 0
+46D:\Projects\FastMove\docs\FastMove.d29bb997.js133970834728024575 0
+50D:\Projects\FastMove\docs\FastMove.d29bb997.js.map133970834728649025 0
+47D:\Projects\FastMove\docs\FastMove.d890f049.css133970834728856377 0
+51D:\Projects\FastMove\docs\FastMove.d890f049.css.map133970834728957478 0
+47D:\Projects\FastMove\docs\FastMove.ec85249d.css133970834729431935 0
+47D:\Projects\FastMove\docs\favicon.e0f426bd.avif133970834730383555 0
+52D:\Projects\FastMove\docs\header_bi_fhd.356fd458.jpg133970834730602559 0
+52D:\Projects\FastMove\docs\header_bi_fhd.7c5a6d51.jpg133970834730912770 0
+55D:\Projects\FastMove\docs\Icone-Phone-Call.48cb4beb.svg133970834731073818 0
+55D:\Projects\FastMove\docs\Icone-Phone-Call.5afe586e.svg133970834731073818 0
+52D:\Projects\FastMove\docs\Telegram_logo.5839672e.svg133970834732024663 0
 40D:\Projects\FastMove\dist\1.39b08daa.jpg133894524965815801 0
 40D:\Projects\FastMove\dist\2.ee589dbb.jpg133970031277920088 0
 40D:\Projects\FastMove\dist\3.fe86ec3d.jpg133894524965815801 0

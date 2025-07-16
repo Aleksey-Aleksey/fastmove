@@ -16,4 +16,4 @@ Built using:
 - Reusable components
 - Responsive for mobile, tablet, and desktop
 - Hover effects and transitions
-- Custom SCSS mixins and variables.
+- Custom SCSS mixins and variables

@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build src/index.html --dist-dir dist --public-url ./"
-  },
+  "start": "parcel",
+  "build": "chmod +x node_modules/.bin/parcel && parcel build src/index.html --dist-dir dist --public-url ./"
+},
   "devDependencies": {
     "@parcel/transformer-sass": "^2.15.4",
     "parcel": "^2.15.4",

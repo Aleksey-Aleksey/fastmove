@@ -4,7 +4,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "chmod +x node_modules/.bin/parcel && parcel build src/index.html --dist-dir dist --public-url ./"
+    "build": "parcel build src/index.html --dist-dir dist --public-url ./"
   },
   "devDependencies": {
   "@parcel/transformer-sass": "2.9.3",
